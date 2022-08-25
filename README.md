@@ -4,6 +4,7 @@
 - HTML
 - CSS
 - JavaScript
+- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=3%3A64)
 
 ## 💬 Assuntos abordados
 - HTML
