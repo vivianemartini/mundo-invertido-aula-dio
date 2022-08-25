@@ -1,1 +1,41 @@
 @import "variables";
+@import "header";
+@import "main";
+@import "footer";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 1s;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--featured-font-family);
+    font-size: 3em;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+p {
+    color: var(--highlight-color);
+    font-size: 16px;
+}
+
+p,input,textarea, label {
+    font-family: 'Libre Baskerville', serif;
+}
+
+button {
+    padding: 16px 32px;
+    background-color: transparent;
+    font-weight: 900;
+    font-family: var(--featured-font-family);
+    font-size: 1.25em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 1s;
+}
