@@ -11,7 +11,7 @@ main::before {
     height: 100%;
     position: absolute;
     background: var(--page-background) no-repeat,
-    url("/img/background/florest.png") no-repeat;
+    url("../../img/background/florest.png") no-repeat;
     background-size: cover;
     z-index: -1;
 }
